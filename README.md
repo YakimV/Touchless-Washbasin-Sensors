@@ -13,7 +13,8 @@ After testing numerous alternatives, the top options that proved best suited for
 ### Comparison & Personal Experience
 
 * **HLK-LD2416 (Most optimal version):**  
-  I consider this the best overall choice because the sensor practically does not require an external microcontroller and can be easily configured via a standard USB-to-UART converter.
+  I consider this the best overall choice because the sensor practically does not require an external microcontroller and can be easily configured via a standard USB-to-UART converter.  
+  *(Yes, there is undeniable comedic irony in taking an advanced 24 GHz FMCW millimeter-wave radar packed with micro-motion tracking and distance-gating capabilities, only to reduce its life's purpose to the gloriously primitive task of opening a water tap when someone wants to wash their hands. It’s total overkill on paper, but in practice, it works brilliantly.)*
 
 * **HLK-LD1020 + CH32V003:**  
   I also really like this version. In terms of raw component cost, it turns out slightly cheaper than the LD2416. However, it takes significantly longer and is much harder to assemble by hand, while objectively, there is practically no difference in real-world performance.
@@ -44,12 +45,3 @@ It is an ideal fit for this kind of project thanks to:
 * Extremely low unit cost;
 * Ease of hand-soldering with a standard soldering iron;
 * Simple, straightforward firmware development.
-
-
-
-### WORK LD2416-based sensor
-
-
-https://github.com/user-attachments/assets/1016a60a-626e-4e7e-826f-5893042d79ae
-
-
