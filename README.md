@@ -45,3 +45,13 @@ It is an ideal fit for this kind of project thanks to:
 * Extremely low unit cost;
 * Ease of hand-soldering with a standard soldering iron;
 * Simple, straightforward firmware development.
+
+
+
+
+
+### WORK LD2416-based sensor
+
+https://github.com/user-attachments/assets/3fb2ff55-c5b9-49b8-b7ec-d0e878508fb5
+
+
