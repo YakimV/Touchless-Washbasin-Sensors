@@ -1,8 +1,9 @@
 # Touchless Washbasin Sensors 🚰
 
-The goal was to create a modern replacement for legacy washbasin sensors: the older models were built around obsolete components that have since been discontinued, becoming rare and overpriced.
+The goal was to develop modern replacement sensors for **outdoor touchless washbasin systems, such as those installed at self-service car washes**. The original systems relied on obsolete electronic components that have since been discontinued, making replacement parts increasingly rare and overpriced.
 
-*(A quick context note: all of these designs were engineered as drop-in upgrades for a specific, pre-existing controller architecture, where motion is signaled via **active-low logic (Logic 0 / pulled to GND = motion detected)**.)*
+*(A quick context note: all designs were engineered as drop-in upgrades for a specific, pre-existing controller architecture, where motion is signaled via **active-low logic (Logic 0 / pulled to GND = motion detected)**.)*
+
 
 After testing numerous alternatives, the top options that proved best suited for high-humidity environments and real-world user interaction are:
 
